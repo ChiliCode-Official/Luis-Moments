@@ -1,0 +1,5 @@
+Mirror in progress since Thu, 03 Sep 2026 13:12:59 .. please wait!
+winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "es, en, *" https://multiple-center-712692.framer.app/ -O1 ""C:\Users\usuario09\Documents\GitHub\Luis-Moments\LUIS MOMENTS"" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=7408
+START=1788462779
